@@ -3,6 +3,6 @@ Test repository.
 More text.
 
 
-1. Item1
-2.
-3.
+1. Green
+2. Red
+3. Blue
